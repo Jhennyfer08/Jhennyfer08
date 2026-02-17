@@ -37,8 +37,6 @@ Contact: jhennyferkamillim@gmail.com
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhennyfer08&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />

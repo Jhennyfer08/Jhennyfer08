@@ -1,4 +1,4 @@
-# 👋 Olá! Me chamo Jhennyfer Kammilli.
+# 👋 Olá! Me chamo Jhennyfer Kamilli.
 
 🇧🇷 [Português](#-português) | 🇺🇸 [English](#-english)
 

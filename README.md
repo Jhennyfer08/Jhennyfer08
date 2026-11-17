@@ -1,43 +1,87 @@
-# Olá👋, me chamo Jhennyfer Kamilli 
-### Front-end Developer
+# 👋 Olá! Me chamo Jhennyfer Kammilli.
 
-### PT-BR
+🇧🇷 [Português](#-português) | 🇺🇸 [English](#-english)
 
-Atualmente atuo como desenvolvedora freelancer em colaboração com uma equipe, participando da criação de projetos voltados à solução de demandas reais de empresas de diferentes setores. Possuo experiência em desenvolvimento Front-end e Back-end, com maior domínio na área de Front-end.
+---
 
-Sou formada como Técnica em Tecnologia da Informação pela Faculdade Senac Contagem e também cursei um ano na mesma área no CEFET. Durante minha formação, desenvolvi competências em prototipação e arquitetura de projetos com Figma e Ciro, além de programação web utilizando JavaScript, PHP e Python. Tenho experiência com bancos de dados relacionais em MySQL, arquitetura MVC, PHP PDO e integração direta com banco de dados.
+# 🇧🇷 Português
 
-Tenho grande interesse em oportunidades na área de desenvolvimento, com disponibilidade para atuação tanto em regime CLT quanto PJ. Possuo nível C1 em Inglês.
+Sou desenvolvedora de software, com formação na área de Tecnologia da Informação e foco em desenvolvimento Full Stack. Tenho interesse em criar soluções tecnológicas eficientes, desenvolver aplicações e transformar ideias em projetos funcionais.
 
-Contato: jhennyferkamillim@gmail.com
+## 💻 Conhecimentos e tecnologias
 
+- **Front-end:** HTML5, CSS3, JavaScript, React.js e Vite.
+- **Back-end:** Node.js e PHP.
+- **Banco de Dados:** MySQL, modelagem de dados, consultas SQL e integração com aplicações.
+- **Arquitetura e desenvolvimento:** MVC, Programação Orientada a Objetos (POO), APIs REST, CRUD, autenticação e controle de permissões.
+- **Ferramentas:** Git, GitHub, Figma, PHP PDO e Multer.
+- **Outros conhecimentos:** C, responsividade, acessibilidade, automação e validação de dados.
 
-### ENGLISH
+## 🚀 Experiência profissional
 
-I currently work as a freelance developer as part of a team, contributing to projects focused on solving real-world challenges faced by companies across different industries. I have experience in both Front-end and Back-end development, with stronger expertise in Front-end.
+Atuei como desenvolvedora freelancer em parceria com empresas da área de tecnologia, participando do desenvolvimento de soluções para necessidades reais de negócio.
 
-I hold a Technical Degree in Information Technology from Faculdade Senac Contagem and also completed one year of studies in the same field at CEFET. Throughout my academic background, I developed skills in project prototyping and architecture using Figma and Ciro, as well as web development with JavaScript, PHP, and Python. I also have experience with relational databases using MySQL, MVC architecture, PHP PDO, and direct database integration.
+Entre os trabalhos realizados, destaco o desenvolvimento de um **sistema de gerenciamento de estoque e materiais**, com funcionalidades de cadastro, controle de movimentações, gerenciamento de usuários, níveis de acesso e integração com banco de dados. Nesse projeto, trabalhei principalmente com PHP, MySQL, PDO, MVC e Programação Orientada a Objetos.
 
-I am highly motivated to grow in the software development field and open to opportunities under both full-time (CLT) and contract (PJ) arrangements. I have a C1 level of English proficiency.
+Também desenvolvi e participei de projetos envolvendo plataformas administrativas, sistemas de inscrição e gerenciamento de eventos, comparação de produtos e automação de processos.
 
-Contact: jhennyferkamillim@gmail.com
+## 🏅 Conquistas e reconhecimento
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/jhennyfer-moura-27b0b4282/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+Participei das competições **Senac Contagem**, na ocupação de Aplicações Web e Mobile, representando minhas habilidades técnicas em desenvolvimento de aplicações.
 
-## Skills
+Após um período de treinamento e preparação, conquistei a **medalha de bronze (3º lugar)** entre 16 competidores.
+Durante essa experiência, também recebi treinamento e desenvolvi habilidades complementares, como pitch, oratória, marketing pessoal, gestão do tempo e controle emocional.
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-</p>
+## 🌎 Idiomas
 
-## GitHub Activity Graph
+- **Português:** Nativo
+- **Inglês:** Avançado (C1).
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhennyfer08&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
+Estou sempre buscando novos desafios, oportunidades de colaboração e experiências que contribuam para meu crescimento profissional e técnico.
 
+**Acredito no poder da tecnologia para transformar ideias em soluções reais!** 🚀
+
+---
+🇺🇸 English
+
+I am a Software Developer with an educational background in Information Technology and a focus on Full Stack Development. I am passionate about building efficient technological solutions, developing applications, and turning ideas into functional projects.
+
+💻 Skills and Technologies
+
+Front-end: HTML5, CSS3, JavaScript, React.js, and Vite.
+
+Back-end: Node.js e PHP.
+
+Databases: MySQL, database modeling, SQL queries, and application integration.
+
+Software Development: MVC architecture, Object-Oriented Programming (OOP), REST APIs, CRUD operations, authentication, and access control.
+
+Tools: Git, GitHub, Figma, PHP PDO, and Multer.
+
+Additional Knowledge: C, programming logic, responsive design, accessibility and data validation.
+
+🚀 Professional Experience
+
+I have worked as a freelance developer in collaboration with technology companies, contributing to the development of software solutions designed to address real business needs.
+
+One of my main experiences involved developing an inventory and stock management system, featuring material registration, stock movement tracking, user management, access levels, and database integration. In this project, I primarily worked with PHP, MySQL, PDO, MVC architecture, and Object-Oriented Programming.
+
+I have also worked on projects involving administrative platforms, event registration and management systems, product comparison applications, and process automation.
+
+🏅 Achievements and Recognition
+
+I participated in the Senac Contagem Web and Mobile Applications Competition, where I demonstrated my technical skills in application development.
+
+After a period of intensive training and preparation, I achieved 3rd place and received the Bronze Medal, competing against 16 participants.
+
+Throughout this experience, I also improved my complementary skills, including pitching, public speaking, personal branding, time management, and emotional control.
+
+🌎 Languages
+
+Portuguese: Native.
+English: Advanced (C1).
+
+I am always looking for new challenges, collaboration opportunities, and experiences that contribute to my professional and technical growth.
+I believe in the power of technology to turn ideas into real-world solutions! 🚀
+
+⭐ Feel free to explore my repositories and projects!
